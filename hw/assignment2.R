@@ -26,4 +26,3 @@ row.reduce.no.division = function(A){
   }
   A
 }
-
